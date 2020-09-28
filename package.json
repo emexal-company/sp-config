@@ -1,0 +1,22 @@
+{
+  "name": "@spectrum/sp-config",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/spectrum-config.js",
+  "module": "dist/spectrum-config.js",
+  "dependencies": {
+    "lit-element": "^2.4.0",
+    "tslib": "^2.0.1"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "engines": {
+    "node": ">=8.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Omar BELKHODJA",
+  "license": "Apache-2.0"
+}
